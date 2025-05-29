@@ -1,0 +1,11 @@
+!-- index.html --
+!DOCTYPE html
+html
+head
+  titleМой первый сайтtitle
+head
+body
+  h1Привет, GitHub!h1
+  pЭто мой первый сайт, загруженный на GitHub.p
+body
+html
